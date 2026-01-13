@@ -1,5 +1,5 @@
 # Utiliser une version spécifique (pas latest)
-FROM nginx:1.25.4-alpine
+FROM nginx:1.29.4-alpine
 
 # Pin apk package versions for reproducible builds
 ARG CA_CERTIFICATES_VERSION=20230506-r0
