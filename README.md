@@ -1,9 +1,9 @@
 # devops-tp-docker-marc-dos-santos
-# devops-tp-docker-marc-dos-santos
+
 # TP DevSecOps avec Docker
 
-![Build and Scan](https://github.com/[username]/devops-tp-docker-[nom]/actions/workflows/docker-deploy.yml/badge.svg)
-![CodeQL](https://github.com/[username]/devops-tp-docker-[nom]/actions/workflows/codeql-analysis.yml/badge.svg)
+![Build and Scan](https://github.com/MarcDOSSANTOS/devops-tp-docker-marcdossantos/actions/workflows/docker-deploy.yml/badge.svg)
+![CodeQL](https://github.com/MarcDOSSANTOS/devops-tp-docker-marcdossantos/actions/workflows/codeql.yml/badge.svg)
 
 ## Pipeline DevSecOps
 
@@ -34,6 +34,3 @@ Ce projet implémente un pipeline CI/CD sécurisé pour Docker avec :
 
 docker pull ghcr.io/marcdossantos/devops-tp-docker-marcdossantos:main
 docker run -p 8080:80 ghcr.io/marcdossantos/devops-tp-docker-marcdossantos:main
-
-https://github.com/MarcDOSSANTOS/devops-tp-docker-marcdossantos/actions/workflows/codeql.yml/badge.svg
-https://github.com/MarcDOSSANTOS/devops-tp-docker-marcdossantos/actions/workflows/docker-deploy.yml/badge.svg
